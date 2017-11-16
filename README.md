@@ -1,4 +1,4 @@
-# ubuntsLesson
+# ubuntu
 
 ## vagrantで環境構築
 
